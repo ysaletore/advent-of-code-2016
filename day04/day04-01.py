@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 
 import sys;
-import re;
 
 def day04(filename):
 	with open(filename, 'r') as f:

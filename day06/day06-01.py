@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 
 import sys;
-import re;
 
 def day06(filename):
 	counters = list();

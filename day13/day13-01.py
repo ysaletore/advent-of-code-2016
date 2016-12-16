@@ -30,9 +30,6 @@ def getOpen(fav, x, y):
 	else:
 		return False;
 
-def none():
-	return None;
-
 def day13(fav, t_x, t_y):
 	start = Node(fav, 1, 1, 0);
 	queue = deque();
